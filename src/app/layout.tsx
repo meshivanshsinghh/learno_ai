@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "devco.ai",
+  title: "learno.ai",
   description: "Your AI-Powered Development Companion",
 };
 
